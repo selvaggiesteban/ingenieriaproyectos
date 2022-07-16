@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#606060;}
+	.st1{fill:#FFFFFF;}
+</style>
+<image style="display:none;overflow:visible;" width="1920" height="688" xlink:href="../../../ingenieriaproyectos.com.ar (actualización 8-8)/public_html/division-industrial/en/assets/images/web2.jpg"  transform="matrix(1.4535 0 0 1.4535 -1790.6976 0)">
+</image>
+<g>
+	<path class="st0" d="M20,980V100c0-44.1,35.9-80,80-80h600c74.8,0,145.1,29.1,198,82c52.9,52.9,82,123.2,82,198v400
+		c0,74.8-29.1,145.1-82,198s-123.2,82-198,82H20z"/>
+	<path class="st0" d="M700,40c35.1,0,69.2,6.9,101.2,20.4c31,13.1,58.8,31.8,82.7,55.7s42.6,51.7,55.7,82.7
+		c13.5,32,20.4,66.1,20.4,101.2v400c0,35.1-6.9,69.2-20.4,101.2c-13.1,31-31.8,58.8-55.7,82.7s-51.7,42.6-82.7,55.7
+		c-32,13.5-66.1,20.4-101.2,20.4H40V100c0-33.1,26.9-60,60-60H700 M700,0H100C44.8,0,0,44.8,0,100v900h700
+		c165.7,0,300-134.3,300-300V300C1000,134.3,865.7,0,700,0L700,0z"/>
+</g>
+<g>
+	<path class="st1" d="M368.3,216.7v550H261v-550H368.3z"/>
+	<path class="st1" d="M670.8,216.7c70.3,0,105.4,37.4,105.4,112.2v109.7c0,74.8-35.1,112.2-105.4,112.2h-96.1v215.9h-119v-550H670.8
+		z M657.2,452.2V315.3c0-4.5-1.6-8.5-4.7-11.9c-3.1-3.4-6.9-5.1-11.5-5.1h-66.3v170.8h66.3c4.5,0,8.4-1.7,11.5-5.1
+		C655.7,460.7,657.2,456.7,657.2,452.2z"/>
+</g>
+</svg>
